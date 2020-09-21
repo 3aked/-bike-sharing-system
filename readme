@@ -1,0 +1,5 @@
+******méthode exacte pour la résolution d’un modèle linéaire mixte
+résolu avec la bibliothèque CPLEX.
+
+******méthode heuristique basé sur le schéma IDCH (heuristique
+itérative de destruction/construction).
