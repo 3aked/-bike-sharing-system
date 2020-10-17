@@ -1,8 +1,8 @@
 /*
  * HeuristicSolver.cpp
  *
- *  Created on: 28 juin 2018
- *      Author: guibadj
+ *  Created on: 28 juin 2019
+ *      Author: boubaker
  */
 #include "HeuristicSolver.h"
 
