@@ -1,8 +1,8 @@
 /*
  * CplexSolver.h
  *
- *  Created on: 1 mai 2018
- *      Author: lisic
+ *  Created on: 1 mai 2019
+ *      Author: boubaker
  */
 
 #ifndef CPLEXSOLVER_H_
