@@ -1,8 +1,8 @@
 /*
  * CplexSolver.cpp
  *
- *  Created on: 1 mai 2018
- *      Author: lisic
+ *  Created on: 1 mai 2019
+ *      Author: Ahmed
  */
 #include <string.h>
 #include "CplexSolver.h"
